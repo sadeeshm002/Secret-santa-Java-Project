@@ -2,7 +2,7 @@
 
 #Installation
 
-Clone the Project and open in any Java based IDE
+Clone the Project using https://github.com/sadeeshm002/Secret-santa-Java-Project.git. and open in any Java based IDE
 
 After that run SecretSantaGame.java as java application -> it will give SecresantaAssignments.csv file as output   
 
@@ -23,3 +23,7 @@ then it will write the list into csv file using BufferedWriter
 After successfull user can get the csv file inthe specified path
 
 #Java 17
+
+#Source
+inputfolder - contains csv file inputs
+src         - contains java source files
