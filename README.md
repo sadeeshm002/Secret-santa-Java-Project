@@ -4,7 +4,9 @@
 
 Clone the Project using https://github.com/sadeeshm002/Secret-santa-Java-Project.git. and open in any Java based IDE
 
-After that run SecretSantaGame.java as java application -> it will give SecresantaAssignments.csv file as output   
+After that navigate to src -> com.acme.secretsanta.game package -> SecretSantaGame.java
+
+run SecretSantaGame.java as java application -> it will give SecresantaAssignments.csv file as output   
 
 #solution overview
 
